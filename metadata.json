@@ -1,0 +1,6 @@
+{
+  "name": "CampuShare Books - Makerere University Peer Textbook Exchange",
+  "description": "Second-hand textbook marketplace for Makerere University students to share, buy, sell, and rent textbooks with verified student profiles, real-time availability, and secure payment.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
